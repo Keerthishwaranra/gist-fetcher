@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.env
+
+# Dependencies
+*.lock
+
+# Logs
+*.log
+logs/
+
+# Cache files
+.cache/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Docker
+*.db
+dist/
+build/
+*.tar
+
+# Testing
+.coverage
+pytest_cache/
+
+# Git
+*.swp
+.DS_Store
